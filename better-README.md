@@ -6,12 +6,10 @@ From zero to FullStack - an unofficial course led by [Pedro Soares](https://gith
 
 This repository aims to create `.html` files so that Mariana can apply the knowledge that she have acquired.
 
-# Technologies
+# Technologies 
 
 - [Markdown](https://www.markdownguide.org/basic-syntax/)
 - [HTML](https://www.w3schools.com/html/html_basic.asp)
-- [Google Chrome](https://g.co/kgs/xStthu)
-- [Safari](https://g.co/kgs/Qg5s21)
 
 # Setup
 
